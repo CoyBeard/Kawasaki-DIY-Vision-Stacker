@@ -1,0 +1,30 @@
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\USBCam Vision Solution.exe.config
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\USBCam Vision Solution.exe
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\USBCam Vision Solution.pdb
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\AForge.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\AForge.Video.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\DirectShowLib.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\DirectShowLib.pdb
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\Emgu.CV.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\Emgu.CV.Bitmap.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\System.Drawing.Common.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\obj\Release\USBCam Vision Solution.csproj.AssemblyReference.cache
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\obj\Release\USBCam_Vision_Solution.Form1.resources
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\obj\Release\USBCam_Vision_Solution.Properties.Resources.resources
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\obj\Release\USBCam Vision Solution.csproj.GenerateResource.cache
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\obj\Release\USBCam Vision Solution.csproj.CoreCompileInputs.cache
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\obj\Release\USBCam Vision Solution.csproj.CopyComplete
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\obj\Release\USBCam Vision Solution.exe
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\obj\Release\USBCam Vision Solution.pdb
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\cvextern.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\opencv_videoio_ffmpeg470_64.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\concrt140.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\msvcp140.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\msvcp140_1.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\msvcp140_2.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\msvcp140_atomic_wait.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\msvcp140_codecvt_ids.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\vcruntime140.dll
+C:\Users\Coy\source\repos\USBCam Vision Solution\USBCam Vision Solution\bin\Release\vcruntime140_1.dll
