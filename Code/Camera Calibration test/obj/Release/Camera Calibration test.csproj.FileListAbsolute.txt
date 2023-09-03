@@ -1,0 +1,27 @@
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\Camera Calibration test.exe.config
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\Camera Calibration test.exe
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\Camera Calibration test.pdb
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\Emgu.CV.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\Emgu.CV.Bitmap.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\Emgu.CV.Platform.NetFramework.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\OpenTK.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\OpenTK.GLControl.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\System.Drawing.Common.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\ZedGraph.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Release\Camera_Calibration_test.Form1.resources
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Release\Camera_Calibration_test.Properties.Resources.resources
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Release\Camera Calibration test.csproj.GenerateResource.cache
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Release\Camera Calibration test.csproj.CoreCompileInputs.cache
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Release\Camera Calibration test.csproj.CopyComplete
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Release\Camera Calibration test.exe
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Release\Camera Calibration test.pdb
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\cvextern.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\opencv_videoio_ffmpeg470_64.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\concrt140.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\msvcp140.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\msvcp140_1.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\msvcp140_2.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\msvcp140_atomic_wait.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\msvcp140_codecvt_ids.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\vcruntime140.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Release\vcruntime140_1.dll

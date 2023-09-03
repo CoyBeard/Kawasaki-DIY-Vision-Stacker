@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\192.168.0.201\\BasementNAS\\Projects\\230626 Eagle Part Stacker\\Programing\\PC Program\\Camera Calibration test\\Camera Calibration test.csproj": {}
+  },
+  "projects": {
+    "\\\\192.168.0.201\\BasementNAS\\Projects\\230626 Eagle Part Stacker\\Programing\\PC Program\\Camera Calibration test\\Camera Calibration test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\192.168.0.201\\BasementNAS\\Projects\\230626 Eagle Part Stacker\\Programing\\PC Program\\Camera Calibration test\\Camera Calibration test.csproj",
+        "projectName": "Camera Calibration test",
+        "projectPath": "\\\\192.168.0.201\\BasementNAS\\Projects\\230626 Eagle Part Stacker\\Programing\\PC Program\\Camera Calibration test\\Camera Calibration test.csproj",
+        "packagesPath": "C:\\Users\\Coy\\.nuget\\packages\\",
+        "outputPath": "\\\\192.168.0.201\\BasementNAS\\Projects\\230626 Eagle Part Stacker\\Programing\\PC Program\\Camera Calibration test\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Coy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.7.0.5276, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.7.0.5276, )"
+            },
+            "Emgu.CV.UI": {
+              "target": "Package",
+              "version": "[4.7.0.5276, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.7.0.5276, )"
+            },
+            "OpenTK": {
+              "target": "Package",
+              "version": "[1.1.2225, )"
+            },
+            "OpenTK.GLControl": {
+              "target": "Package",
+              "version": "[1.1.2225, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "ZedGraph": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

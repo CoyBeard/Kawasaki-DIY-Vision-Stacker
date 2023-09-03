@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYvC8+pEEQlKHrWQkXqGeDMlU4EcicXgq0gmGhO5PKbknh42RZOkWcEOqvnBdkjEuOOWb9OSyRBqC8Xzb2Wi1A==",
+  "success": true,
+  "projectFilePath": "\\\\192.168.0.201\\BasementNAS\\Projects\\230626 Eagle Part Stacker\\Programing\\PC Program\\Camera Calibration test\\Camera Calibration test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coy\\.nuget\\packages\\emgu.cv\\4.7.0.5276\\emgu.cv.4.7.0.5276.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\emgu.cv.bitmap\\4.7.0.5276\\emgu.cv.bitmap.4.7.0.5276.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\emgu.cv.runtime.windows\\4.7.0.5276\\emgu.cv.runtime.windows.4.7.0.5276.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\emgu.cv.ui\\4.7.0.5276\\emgu.cv.ui.4.7.0.5276.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.arm64\\19.35.32217.1\\emgu.runtime.windows.msvc.rt.arm64.19.35.32217.1.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x64\\19.35.32217.1\\emgu.runtime.windows.msvc.rt.x64.19.35.32217.1.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x86\\19.35.32217.1\\emgu.runtime.windows.msvc.rt.x86.19.35.32217.1.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\opentk\\1.1.2225\\opentk.1.1.2225.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\opentk.glcontrol\\1.1.2225\\opentk.glcontrol.1.1.2225.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\Coy\\.nuget\\packages\\zedgraph\\5.1.5\\zedgraph.5.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

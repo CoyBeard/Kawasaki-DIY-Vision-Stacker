@@ -1,0 +1,56 @@
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\Camera Calibration test.exe.config
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\Camera Calibration test.exe
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\Camera Calibration test.pdb
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\OpenTK.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\OpenTK.GLControl.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\ZedGraph.dll
+C:\Users\coy\source\repos\Camera Calibration test\obj\Debug\Camera Calibration test.csproj.AssemblyReference.cache
+C:\Users\coy\source\repos\Camera Calibration test\obj\Debug\Camera_Calibration_test.Properties.Resources.resources
+C:\Users\coy\source\repos\Camera Calibration test\obj\Debug\Camera Calibration test.csproj.GenerateResource.cache
+C:\Users\coy\source\repos\Camera Calibration test\obj\Debug\Camera Calibration test.csproj.CoreCompileInputs.cache
+C:\Users\coy\source\repos\Camera Calibration test\obj\Debug\Camera Calibration test.csproj.CopyComplete
+C:\Users\coy\source\repos\Camera Calibration test\obj\Debug\Camera Calibration test.exe
+C:\Users\coy\source\repos\Camera Calibration test\obj\Debug\Camera Calibration test.pdb
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\Emgu.CV.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\cvextern.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\opencv_videoio_ffmpeg470_64.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\concrt140.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\msvcp140.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\msvcp140_1.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\msvcp140_2.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\msvcp140_atomic_wait.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\msvcp140_codecvt_ids.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\vcruntime140.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\vcruntime140_1.dll
+C:\Users\coy\source\repos\Camera Calibration test\bin\Debug\System.Drawing.Common.dll
+C:\Users\coy\source\repos\Camera Calibration test\obj\Debug\Camera_Calibration_test.Form1.resources
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\Camera Calibration test.exe.config
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\Camera Calibration test.exe
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\Camera Calibration test.pdb
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\Emgu.CV.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\Emgu.CV.Bitmap.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\cvextern.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\opencv_videoio_ffmpeg470_64.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\concrt140.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\msvcp140.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\msvcp140_1.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\msvcp140_2.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\msvcp140_atomic_wait.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\msvcp140_codecvt_ids.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\vcruntime140.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\vcruntime140_1.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\OpenTK.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\OpenTK.GLControl.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\System.Drawing.Common.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\bin\Debug\ZedGraph.dll
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Debug\Camera Calibration test.csproj.AssemblyReference.cache
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Debug\Camera_Calibration_test.Form1.resources
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Debug\Camera_Calibration_test.Properties.Resources.resources
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Debug\Camera Calibration test.csproj.GenerateResource.cache
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Debug\Camera Calibration test.csproj.CoreCompileInputs.cache
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Debug\Camera Calibration test.csproj.CopyComplete
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Debug\Camera Calibration test.exe
+\\192.168.0.201\BasementNAS\Projects\230626 Eagle Part Stacker\Programing\PC Program\Camera Calibration test\obj\Debug\Camera Calibration test.pdb
